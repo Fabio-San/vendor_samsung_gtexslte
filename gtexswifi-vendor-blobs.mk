@@ -144,7 +144,7 @@ PRODUCT_COPY_FILES += \
 
 # PRODUCT_COPY_FILES += \
 # 	vendor/samsung/gtexswifi/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
-	#vendor/samsung/gtexswifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+# vendor/samsung/gtexswifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
 # 	vendor/samsung/gtexswifi/proprietary/etc/HARRIER_ASIC_PATCH_LPRAM_IMAGE.bin:system/etc/HARRIER_ASIC_PATCH_LPRAM_IMAGE.bin \
 # 	vendor/samsung/gtexswifi/proprietary/etc/HARRIER_ASIC_PATCH_RAM_IMAGE.bin:system/etc/HARRIER_ASIC_PATCH_RAM_IMAGE.bin \
 
