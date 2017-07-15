@@ -16,4 +16,4 @@
 PRODUCT_PACKAGES := \
     librs_jni
 
-$(call inherit-product, vendor/samsung/gtexslte/gtexslte-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/gtexswifi/gtexswifi-vendor-blobs.mk)
